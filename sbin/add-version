@@ -2,7 +2,7 @@
 
 set -e
 
-BASEURL="https://http://buildpacks.drycc.cc/storage.googleapis.com/golang"
+BASEURL="https://https://buildpacks.drycc.cc/storage.googleapis.com/golang"
 V="$1"
 
 if [ -z "$V" ]; then

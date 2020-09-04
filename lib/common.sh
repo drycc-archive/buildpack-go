@@ -19,7 +19,7 @@ NC='\033[0m' # No Color
 CURL="curl -s -L --retry 15 --retry-delay 2" # retry for up to 30 seconds
 
 if [ -z "${GO_BUCKET_URL}" ]; then
-    BucketURL="http://buildpacks.drycc.cc/go"
+    BucketURL="https://buildpacks.drycc.cc/go"
 else
     BucketURL="${GO_BUCKET_URL}"
 fi
