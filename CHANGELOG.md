@@ -2,6 +2,16 @@
 
 ## Unreleased
 
+## v147 (2020-09-15)
+* *GoModules* Private proxy support via `GOPROXY`, `GOPRIVATE`, and `GONOPROXY`
+* Add go1.14.9, use for go1.14
+* Add go1.15.2, use for go1.15
+
+## v146 (2020-09-08)
+* Update glide-with-hg-dep test fixture to use a new dependency, bitbucket.org/pkg/inflect is gone
+* Add go1.14.8, use for go1.14
+* Add go1.15.1, use for go1.15
+
 ## v145 (2020-08-18)
 * Switch `heroku-buildpack-go`'s default branch from `master` to `main`.
 * Add go1.13.15, use for go1.13
