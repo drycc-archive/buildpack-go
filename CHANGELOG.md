@@ -2,6 +2,14 @@
 
 ## Unreleased
 
+## v149 (2020-11-09)
+* Add go1.14.11, use for go1.14
+* Add go1.15.4, use for go1.15
+
+## v148 (2020-10-19)
+* Add go1.14.10, use for go1.14
+* Add go1.15.3, use for go1.15
+
 ## v147 (2020-09-15)
 * *GoModules* Private proxy support via `GOPROXY`, `GOPRIVATE`, and `GONOPROXY`
 * Add go1.14.9, use for go1.14
