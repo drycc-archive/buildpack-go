@@ -2,9 +2,17 @@
 
 ## Unreleased
 
-## v149 (2020-11-09)
-* Add go1.14.11, use for go1.14
-* Add go1.15.4, use for go1.15
+## v150 (2021-01-21)
+* Add go1.14.14, use for go1.14
+* Add go1.15.7, use for go1.15
+
+## v149 (2020-12-07)
+* Add go1.14.11
+* Add go1.15.4
+* Add go1.14.12
+* Add go1.15.5
+* Add go1.14.13, use for go1.14
+* Add go1.15.6, use for go1.15
 
 ## v148 (2020-10-19)
 * Add go1.14.10, use for go1.14
