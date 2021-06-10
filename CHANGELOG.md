@@ -1,6 +1,11 @@
 # Go Buildpack Changelog
 
 ## Unreleased
+* Drop Heroku-16 from CI test matrix
+
+## v153 (2021-03-11)
+* Add go1.16.1, use for go1.16
+* Add go1.15.9, use for go1.15
 
 ## v152 (2021-02-17)
 * Drop cedar-14 from test matrix
